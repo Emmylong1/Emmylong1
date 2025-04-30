@@ -12,7 +12,14 @@
 
 ## 💼 About Me
 
-I'm a results-driven DevOps Engineer with expertise in streamlining development processes and building robust infrastructure solutions. My focus is on creating efficient, scalable systems that accelerate software delivery while maintaining reliability and security.
+I am an industrious IT professional with over 5+ years of experience as a Cloud, Platform and DevOps Engineer. I have experience in managing
+Infrastructure as a Service(IaaS), Infrastructure as Code (IaC), Software as a Service(SaaS) and Platform as a Service(PaaS).
+I have hands-on experience in automating, maintaining and optimizing core devOps tools and AWS Cloud Architecture such as Linux, Git/Github,
+Maven, Nexus, Sonarqube, ECS, Kubernetes, Github Actions, Ansible, Terraform, Jenkins CI/CD pipelines, Prometheus/grafana , ELK, Helm and
+Docker in developing, building, testing, deploying and monitoring web applications.
+I am a highly motivated and dedicated individual known for excellence and problem-solving skills hereby providing solutions to companies, industries
+and firms. I also work with teams to establish management and excellent delivery of software/web applications within budget and scope and deadlines
+given.
 
 ## 🚀 Technical Expertise
 
