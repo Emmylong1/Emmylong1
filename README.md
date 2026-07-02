@@ -12,7 +12,7 @@
 
 ## 💼 About Me
 
-I am an industrious IT professional with over 7+ years of experience as a Cloud, Platform and DevOps Engineer. I have experience in managing
+I am an industrious IT professional with over 6+ years of experience as a Cloud, Platform and DevOps Engineer. I have experience in managing
 Infrastructure as a Service(IaaS), Infrastructure as Code (IaC), Software as a Service(SaaS) and Platform as a Service(PaaS).
 I have hands-on experience in automating, maintaining and optimizing core devOps tools and AWS Cloud Architecture such as Linux, Git/Github,
 Maven, Nexus, Sonarqube, ECS, Kubernetes, Github Actions, Ansible, Terraform, Jenkins CI/CD pipelines, Prometheus/grafana , ELK, Helm and
